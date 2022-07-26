@@ -299,9 +299,6 @@ img {
   text-decoration: none;
   display: inline-block;
 }
-.address-list {
-  display: inline-block;
-}
 
 .address-list :not(:last-child) {
   margin-bottom: 9px;
